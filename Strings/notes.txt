@@ -1,0 +1,2 @@
+-compare() if 0 then equal,if -1 then first small , if 1 first is big
+-size()/length() - returns size
